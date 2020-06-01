@@ -1,0 +1,25 @@
+﻿@model List<Data.Formation>
+
+@{
+    ViewData["Title"] = "Toutes les Formations";
+}
+
+<h1>Toutes nos Formations</h1>
+
+@foreach (var formation in Model)
+{
+    <p>Nom de la Formation :</p>
+
+    /*<a href="/Formation/DetailsFormation?idFormation=@formation.Id">@formation.Nom</a>*/
+
+    <a
+       asp-controller="Formation"
+       asp-action="DetailsFormation"
+       asp-route-idFormation="@formation.Id">@formation.Nom</a>
+
+    <p>Description de la Formation : @formation.Description</p>
+    <p>NomSeao de la Formation : @formation.NomSeo</p>
+    <br />
+
+}
+

@@ -1,0 +1,6 @@
+/Users/alexandrebecquart/Projects/PizzaConsole/PizzaConsole/bin/Debug/PizzaConsole.exe
+/Users/alexandrebecquart/Projects/PizzaConsole/PizzaConsole/bin/Debug/PizzaConsole.pdb
+/Users/alexandrebecquart/Projects/PizzaConsole/PizzaConsole/obj/Debug/PizzaConsole.csprojAssemblyReference.cache
+/Users/alexandrebecquart/Projects/PizzaConsole/PizzaConsole/obj/Debug/PizzaConsole.csproj.CoreCompileInputs.cache
+/Users/alexandrebecquart/Projects/PizzaConsole/PizzaConsole/obj/Debug/PizzaConsole.exe
+/Users/alexandrebecquart/Projects/PizzaConsole/PizzaConsole/obj/Debug/PizzaConsole.pdb

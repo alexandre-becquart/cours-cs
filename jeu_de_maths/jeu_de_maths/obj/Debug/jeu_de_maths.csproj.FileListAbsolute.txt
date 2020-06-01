@@ -1,0 +1,6 @@
+/Users/alexandrebecquart/Projects/jeu_de_maths/jeu_de_maths/bin/Debug/jeu_de_maths.exe
+/Users/alexandrebecquart/Projects/jeu_de_maths/jeu_de_maths/bin/Debug/jeu_de_maths.pdb
+/Users/alexandrebecquart/Projects/jeu_de_maths/jeu_de_maths/obj/Debug/jeu_de_maths.csprojAssemblyReference.cache
+/Users/alexandrebecquart/Projects/jeu_de_maths/jeu_de_maths/obj/Debug/jeu_de_maths.csproj.CoreCompileInputs.cache
+/Users/alexandrebecquart/Projects/jeu_de_maths/jeu_de_maths/obj/Debug/jeu_de_maths.exe
+/Users/alexandrebecquart/Projects/jeu_de_maths/jeu_de_maths/obj/Debug/jeu_de_maths.pdb

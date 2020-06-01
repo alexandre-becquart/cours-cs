@@ -1,0 +1,3 @@
+/Users/alexandrebecquart/Projects/HelloWorld/HelloWorld/bin/Release/HelloWorld.exe
+/Users/alexandrebecquart/Projects/HelloWorld/HelloWorld/obj/Release/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/alexandrebecquart/Projects/HelloWorld/HelloWorld/obj/Release/HelloWorld.exe

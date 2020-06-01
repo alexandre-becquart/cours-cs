@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C7BA076C-BAD0-4930-94CB-48136FF447E4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PizzaConsole/Program.cs">
+    <Files>
+      <File FileName="PizzaConsole/Program.cs" Line="123" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PizzaConsole" expanded="True">
+            <Node name="PizzaConsole" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../nb_magique_console/nb_magique_console/Program.cs" line="15" column="16" endLine="15" endColumn="83" offsetX="-1" offsetY="-1" expression="nombreMagique" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PizzaConsole PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

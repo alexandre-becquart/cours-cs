@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvisFormationsCore.WebUi", "AvisFormationsCore.WebUi\AvisFormationsCore.WebUi.csproj", "{0BA650B4-4493-4ABD-975F-FDDC59320711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{904D4F7B-D724-4F5F-897E-78380CAE33CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA650B4-4493-4ABD-975F-FDDC59320711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA650B4-4493-4ABD-975F-FDDC59320711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA650B4-4493-4ABD-975F-FDDC59320711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA650B4-4493-4ABD-975F-FDDC59320711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904D4F7B-D724-4F5F-897E-78380CAE33CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904D4F7B-D724-4F5F-897E-78380CAE33CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904D4F7B-D724-4F5F-897E-78380CAE33CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904D4F7B-D724-4F5F-897E-78380CAE33CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

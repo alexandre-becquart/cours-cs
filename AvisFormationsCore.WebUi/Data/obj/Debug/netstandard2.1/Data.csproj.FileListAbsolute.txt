@@ -1,0 +1,9 @@
+/Users/alexandrebecquart/Projects/AvisFormationsCore.WebUi/Data/bin/Debug/netstandard2.1/Data.deps.json
+/Users/alexandrebecquart/Projects/AvisFormationsCore.WebUi/Data/bin/Debug/netstandard2.1/Data.dll
+/Users/alexandrebecquart/Projects/AvisFormationsCore.WebUi/Data/bin/Debug/netstandard2.1/Data.pdb
+/Users/alexandrebecquart/Projects/AvisFormationsCore.WebUi/Data/obj/Debug/netstandard2.1/Data.csprojAssemblyReference.cache
+/Users/alexandrebecquart/Projects/AvisFormationsCore.WebUi/Data/obj/Debug/netstandard2.1/Data.AssemblyInfoInputs.cache
+/Users/alexandrebecquart/Projects/AvisFormationsCore.WebUi/Data/obj/Debug/netstandard2.1/Data.AssemblyInfo.cs
+/Users/alexandrebecquart/Projects/AvisFormationsCore.WebUi/Data/obj/Debug/netstandard2.1/Data.csproj.CoreCompileInputs.cache
+/Users/alexandrebecquart/Projects/AvisFormationsCore.WebUi/Data/obj/Debug/netstandard2.1/Data.dll
+/Users/alexandrebecquart/Projects/AvisFormationsCore.WebUi/Data/obj/Debug/netstandard2.1/Data.pdb

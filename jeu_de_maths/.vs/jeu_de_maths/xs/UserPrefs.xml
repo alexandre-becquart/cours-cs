@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{62EB5E13-46C9-454A-ACC9-D56F287ECFA8}|Default">
+  <MonoDevelop.Ide.ItemProperties.jeu__de__maths PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="jeu_de_maths/Program.cs">
+    <Files>
+      <File FileName="jeu_de_maths/Program.cs" Line="184" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="jeu_de_maths" expanded="True">
+            <Node name="jeu_de_maths" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>nombreMagique</Value>
+          <Value>nombreDeVies </Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../nb_magique_console/nb_magique_console/Program.cs" line="15" column="16" endLine="15" endColumn="83" offsetX="-1" offsetY="-1" expression="nombreMagique" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

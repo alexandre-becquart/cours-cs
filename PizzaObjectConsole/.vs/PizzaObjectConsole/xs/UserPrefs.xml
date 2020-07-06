@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{06D3B5BF-80A4-4A6E-8218-63451A4251EE}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="PizzaObjectConsole/Program.cs">
     <Files>
-      <File FileName="PizzaObjectConsole/Program.cs" Line="10" Column="1" />
+      <File FileName="PizzaObjectConsole/Program.cs" Line="43" Column="49" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,10 +14,7 @@
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>nombreMagique</Value>
-          <Value>nombreDeVies </Value>
-        </State>
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
@@ -29,5 +26,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.PizzaObjectConsole FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PizzaObjectConsole PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

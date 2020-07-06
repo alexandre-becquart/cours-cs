@@ -1,13 +1,6 @@
 ﻿<Properties StartupConfiguration="{0BA650B4-4493-4ABD-975F-FDDC59320711}|Default">
   <MonoDevelop.Ide.ItemProperties.AvisFormationsCore.WebUi PreferredExecutionTarget="/Applications/Brave Browser.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Data/FormationMemoryRepository.cs">
-    <Files>
-      <File FileName="AvisFormationsCore.WebUi/Controllers/AvisController.cs" Line="21" Column="1" />
-      <File FileName="AvisFormationsCore.WebUi/Views/Avis/LaisserUnAvis.cshtml" />
-      <File FileName="AvisFormationsCore.WebUi/Controllers/FormationController.cs" />
-      <File FileName="AvisFormationsCore.WebUi/Models/LaisserUnAvisViewModel.cs" />
-      <File FileName="Data/FormationMemoryRepository.cs" Line="28" Column="20" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -20,10 +13,13 @@
               </Node>
             </Node>
             <Node name="Data" expanded="True">
-              <Node name="FormationMemoryRepository.cs" selected="True" />
+              <Node name="Formation.cs" selected="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

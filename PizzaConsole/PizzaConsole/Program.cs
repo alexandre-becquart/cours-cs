@@ -70,7 +70,7 @@ namespace PizzaConsole
 
             //Etape 2
 
-            //Strin g[] nomPizzas = { "quatre fromages", "tartiflette", "margherita", "indienne", "mexicaine", "chèvre et miel" };
+            //String[] nomPizzas = { "quatre fromages", "tartiflette", "margherita", "indienne", "mexicaine", "chèvre et miel" };
 
             //convertir le tableau en liste
 

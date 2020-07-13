@@ -144,6 +144,7 @@ namespace jeu_de_maths
             }
 
         }
+
         private static void AfficherResultat(int nbPoints )
         {
 

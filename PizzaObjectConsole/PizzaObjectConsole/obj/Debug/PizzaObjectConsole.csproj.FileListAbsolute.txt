@@ -4,3 +4,9 @@
 /Users/alexandrebecquart/Projects/PizzaObjectConsole/PizzaObjectConsole/obj/Debug/PizzaObjectConsole.csproj.CoreCompileInputs.cache
 /Users/alexandrebecquart/Projects/PizzaObjectConsole/PizzaObjectConsole/obj/Debug/PizzaObjectConsole.exe
 /Users/alexandrebecquart/Projects/PizzaObjectConsole/PizzaObjectConsole/obj/Debug/PizzaObjectConsole.pdb
+/Users/alexandrebecquart/Desktop/cours cs/cours-cs/PizzaObjectConsole/PizzaObjectConsole/bin/Debug/PizzaObjectConsole.exe
+/Users/alexandrebecquart/Desktop/cours cs/cours-cs/PizzaObjectConsole/PizzaObjectConsole/bin/Debug/PizzaObjectConsole.pdb
+/Users/alexandrebecquart/Desktop/cours cs/cours-cs/PizzaObjectConsole/PizzaObjectConsole/obj/Debug/PizzaObjectConsole.csprojAssemblyReference.cache
+/Users/alexandrebecquart/Desktop/cours cs/cours-cs/PizzaObjectConsole/PizzaObjectConsole/obj/Debug/PizzaObjectConsole.csproj.CoreCompileInputs.cache
+/Users/alexandrebecquart/Desktop/cours cs/cours-cs/PizzaObjectConsole/PizzaObjectConsole/obj/Debug/PizzaObjectConsole.exe
+/Users/alexandrebecquart/Desktop/cours cs/cours-cs/PizzaObjectConsole/PizzaObjectConsole/obj/Debug/PizzaObjectConsole.pdb

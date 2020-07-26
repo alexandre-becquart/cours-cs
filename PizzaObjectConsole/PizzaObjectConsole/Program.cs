@@ -14,14 +14,16 @@ namespace PizzaObjectConsole
             private static Pizza pizzalLaMoinschere;
             private static Pizza pizzalLaPlusChere;
 
-            private string nom;
+            //private, protected, public
+            protected string nom;
             private int prix;
-
+            protected string[] ingredients;
             //Constructor
-            public Pizza(string nom, int prix)
+            public Pizza(string nom, int prix, string[] ingredients)
             {
                 this.nom = nom;
                 this.prix = prix;
+                this.ingredients = ingredients;
 
                 dernierePizzaCree = this;
 
@@ -52,9 +54,11 @@ namespace PizzaObjectConsole
                 
             }
 
-            public void Afficher()
+            virtual public void Afficher()
             {
                 Console.WriteLine("Pizza: " + nom + " - " + prix + "€");
+                Console.WriteLine(String.Join(",", ingredients));
+                Console.WriteLine(" ");
             }
 
             public int Prix
@@ -88,15 +92,39 @@ namespace PizzaObjectConsole
 
             }
 
-            public static void AfficherPizzaMoinsChere()
+            public static void AfficherPizzaMoinsChereEtPlusChere()
             {
-                
+                if (pizzalLaMoinschere != null)
+                {
+                    Console.WriteLine("** PIZZA LA MOINS CHERE **");
+                    pizzalLaMoinschere.Afficher();
+                }
+                if (pizzalLaPlusChere != null)
+                {
+                    Console.WriteLine("** PIZZA LA PLUS CHERE **");
+                    pizzalLaPlusChere.Afficher();
+                }
 
             }
 
+            
+
         }
 
+        class PizzaGratuite: Pizza
+        {
+            public PizzaGratuite(string nom, string[] ingredients):base(nom, 0, ingredients)
+            {
 
+            }
+
+            override public void Afficher()
+            {
+                Console.WriteLine("Pizza: " + nom + " GRATUIT");
+                Console.WriteLine(String.Join(",", ingredients));
+                Console.WriteLine(" ");
+            }
+        }
         
 
         public static void Main(string[] args)
@@ -106,11 +134,13 @@ namespace PizzaObjectConsole
             //Pizza.AfficherLaDernierePizza();
 
             List<Pizza> pizzas = new List<Pizza>();
-            pizzas.Add(new Pizza("Quatre fromages", 11));
-            pizzas.Add(new Pizza("Norvégienne", 16));
-            pizzas.Add(new Pizza("Normande", 12));
-            pizzas.Add(new Pizza("Montagnarde", 15));
-            pizzas.Add(new Pizza("Végétarienne", 9));
+            pizzas.Add(new Pizza("Quatre fromages", 11, new string[] {"brie", "mozzarella", "gruyere", "emmentale"}));
+            pizzas.Add(new Pizza("Norvégienne", 16, new string[] { "saumon Fumé", "tomates"}));
+            pizzas.Add(new Pizza("Normande", 12, new string[] {"brie", "pommes", "oignons"}));
+            pizzas.Add(new Pizza("Montagnarde", 15, new string[] { "roblochon ", "pommes de terre", "gruyere" }));
+            pizzas.Add(new Pizza("Végétarienne", 9, new string[] { "tomates", "oignons", "poivrons", "olives" }));
+            pizzas.Add(new PizzaGratuite("tomate", new string[] { "tomates" }));
+
 
             //pizzas[0].Prix = 200;
 
@@ -133,6 +163,8 @@ namespace PizzaObjectConsole
             Console.WriteLine("");
 
             //Pizza.AfficherLaDernierePizza();
+
+            Pizza.AfficherPizzaMoinsChereEtPlusChere();
 
         }
     }

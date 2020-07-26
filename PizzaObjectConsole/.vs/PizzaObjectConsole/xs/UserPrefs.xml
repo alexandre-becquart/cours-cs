@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{06D3B5BF-80A4-4A6E-8218-63451A4251EE}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="PizzaObjectConsole/Program.cs">
     <Files>
-      <File FileName="PizzaObjectConsole/Program.cs" Line="43" Column="49" />
+      <File FileName="PizzaObjectConsole/Program.cs" Line="6" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,9 +12,6 @@
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

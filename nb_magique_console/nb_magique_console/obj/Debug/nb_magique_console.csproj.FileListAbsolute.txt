@@ -4,3 +4,9 @@
 /Users/alexandrebecquart/Projects/nb_magique_console/nb_magique_console/bin/Debug/nb_magique_console.pdb
 /Users/alexandrebecquart/Projects/nb_magique_console/nb_magique_console/obj/Debug/nb_magique_console.exe
 /Users/alexandrebecquart/Projects/nb_magique_console/nb_magique_console/obj/Debug/nb_magique_console.pdb
+/Users/alexandrebecquart/Desktop/cours cs/cours-cs/nb_magique_console/nb_magique_console/bin/Debug/nb_magique_console.exe
+/Users/alexandrebecquart/Desktop/cours cs/cours-cs/nb_magique_console/nb_magique_console/bin/Debug/nb_magique_console.pdb
+/Users/alexandrebecquart/Desktop/cours cs/cours-cs/nb_magique_console/nb_magique_console/obj/Debug/nb_magique_console.csprojAssemblyReference.cache
+/Users/alexandrebecquart/Desktop/cours cs/cours-cs/nb_magique_console/nb_magique_console/obj/Debug/nb_magique_console.csproj.CoreCompileInputs.cache
+/Users/alexandrebecquart/Desktop/cours cs/cours-cs/nb_magique_console/nb_magique_console/obj/Debug/nb_magique_console.exe
+/Users/alexandrebecquart/Desktop/cours cs/cours-cs/nb_magique_console/nb_magique_console/obj/Debug/nb_magique_console.pdb
